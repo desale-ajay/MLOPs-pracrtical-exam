@@ -1,4 +1,3 @@
-"""Student 3: create and query a local Feast feature store."""
 from pathlib import Path
 import argparse
 from datetime import datetime, timezone
